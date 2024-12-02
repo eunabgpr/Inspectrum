@@ -99,7 +99,7 @@ class _UserProfileWidgetState extends State<UserProfileWidget> {
                               color: FlutterFlowTheme.of(context).alternate,
                               letterSpacing: 0.0,
                             ),
-                    hintText: 'Christine',
+                    hintText: 'Juan ',
                     hintStyle:
                         FlutterFlowTheme.of(context).labelMedium.override(
                               fontFamily: 'Inter',
